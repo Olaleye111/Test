@@ -42,8 +42,8 @@ namespace Name
             Console.WriteLine(Boss.model);
             Console.WriteLine(Boss.tyres);
 
-            Car People = new Car();
-            People.color = "red";
+            //Car People = new Car();
+            //People.color = "red";
         }
     }
 }

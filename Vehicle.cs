@@ -4,6 +4,10 @@ namespace Vehicle
 {
     class Vehicle
     {
-        public string
+        public string name()
+        {
+            string na = "ghj";
+            return na;
+        }
     }
 }
